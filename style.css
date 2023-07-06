@@ -37,6 +37,8 @@ h2{
 }
 
 .graybar {
+    margin-top: 10px;
+    margin-bottom: 10px;
     background-color: #333333;
     padding: 20px;
 }
