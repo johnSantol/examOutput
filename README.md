@@ -1,1 +1,1 @@
-# examOutput
+# Coding Exam Output
