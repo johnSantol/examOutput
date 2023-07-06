@@ -1,0 +1,96 @@
+body {
+    font-family: "Arial", "Helvetica", sans-serif;
+    background-color: #ebebeb; 
+    font-size: 13px;
+
+}
+
+h1{
+    color: #424243;
+}
+h2{
+    color: #424243;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.container{
+    width: 55%;
+    height: auto;
+    background-color: #FFFFFF;
+}
+
+.bluebar {
+    background-color: #003366;
+    color: #FFFFFF;
+    text-align: right;
+    justify-content: center;
+    align-items: center;
+    font-weight:bolder;
+    padding: 20px;
+}
+
+.graybar {
+    background-color: #333333;
+    padding: 20px;
+}
+
+
+nav {
+  color: #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+    height: auto;
+    width: 40vh;
+  
+}
+
+.navbar-text ul {
+    color: #424243;
+    text-align: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-text li {
+/*  display: inline;*/
+  margin-right: 10px;
+}
+
+.navbar-text a {
+    color: #000000;
+    margin-left: auto;
+    text-decoration: none;
+    border-bottom: 1px solid black;
+}
+.text-li{
+    color: #00bba4;
+    text-decoration: none;
+}
+.body-text{
+    font-size: 15px;
+}
+.content{
+    margin:10px;
+}
+.person{
+    font-size: 10px;
+    color: #767171;
+    text-align: right;
+}
+.button{
+    background-color: #003366; padding: 10px; color: #FFFFFF; text-decoration: none;"
+    margin-top:5px;
+    margin-bottom: 5px;
+}
